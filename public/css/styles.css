@@ -1,0 +1,73 @@
+.starter-template {
+padding: 40px 15px;
+text-align: center;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.np-links {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.homepage {
+  background-image: url('images/drink.jpg');
+  background: no-repeat;
+  background-size: cover;
+}
+
+#homepage-header,
+.lead,
+.hp-link {
+  color: #00AE68;
+  text-align: left;
+  font-weight: 100;
+}
+
+.lead {
+  font-size: 3em;
+}
+
+.hp-link {
+  text-decoration: underline;
+}
+
+#homepage-header {
+  font-size: 10em;
+}
+
+.navbar,
+.navbar-inverse .navbar-toggle:hover  {
+  background-color: white;
+}
+
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-nav>li>a,
+.hp-link,
+.btn,
+h1  {
+  color: #00AE68;
+}
+
+h1, a, .btn, td, th, li {
+  font-weight: 100;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-nav>li>a:hover,
+.hp-link:hover {
+  color: #333;
+}
+
+.btn,
+.navbar,
+.navbar-inverse .navbar-toggle,
+.navbar-inverse .navbar-toggle .icon-bar {
+  border-color: #00AE68;
+}
+
+.recipe-data {
+  text-align: justify;
+}
