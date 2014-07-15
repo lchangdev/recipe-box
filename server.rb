@@ -1,6 +1,6 @@
 require 'sinatra'
 require 'pg'
-require 'pry'
+
 
 # Methods
 
